@@ -1,4 +1,2 @@
-# ignore all .rtf files
-*.rtf
 # ignore .DS_Store files (macOS folder custom attributes)
 .DS_Store
